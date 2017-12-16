@@ -1,0 +1,3 @@
+Easy 12 4 Easy_B.png Easy.wav
+Medium 9 3 Medium_B.jpg Medium.wav
+Hard 6 2 Hard_B.jpg Hard.wav
